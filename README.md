@@ -5,4 +5,4 @@ consensus algorithm
 - add block to blockchain by voting
 
 2. POW(Proof of Work)
-- add block to blochain by work mining nonce
+- add block to blochain by mining nonce
